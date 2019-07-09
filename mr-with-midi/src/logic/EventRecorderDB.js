@@ -1,27 +1,11 @@
-import low from 'lowdb'
-import LocalStorage from 'lowdb/adapters/LocalStorage'
 
-const dbWrite = () =>{
-    const adapter = new LocalStorage('db')
-    const db = low(adapter);
+const dbUpdate = () =>{
+    let xhr = new XMLHttpRequest();
+    let url = 'http://localhost:27017/posts';
+    xhr.open('POST',url );
+    xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+    xhr.send(JSON.stringify({   "id": 5,   "title": "test5666u449gu49ug94ugu4",   "author": "aspcjka9scja90scj" }))
 
-
-// Set some defaults (required if your JSON file is empty)
-    db.defaults({ posts: [], user: {}, count: 0 })
-        .write();
-
-// Add a post
-    db.get('posts')
-        .push({ id: 1, title: 'lowdb is awesome'})
-        .write();
-
-// Set a user using Lodash shorthand syntax
-    db.set('user.name', 'typicode')
-        .write();
-
-// Increment count
-    db.update('count', n => n + 1)
-        .write();
 };
 
-export {dbWrite}
+export {dbUpdate}

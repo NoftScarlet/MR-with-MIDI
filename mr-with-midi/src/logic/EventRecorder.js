@@ -34,7 +34,7 @@ export default class EventRecorder extends React.Component {
     }
 
     initPlayeTimeAndNotesArray = (length) => {
-        EventRecorderDB.dbWrite();
+        EventRecorderDB.dbUpdate();
       for (let i=0;i<length+10;i++) {
           this.playTimes.push([]);
           this.playedNotesArray.push([]);

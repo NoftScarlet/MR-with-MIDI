@@ -54,5 +54,4 @@ const calculate =(eventID,playTimes,playedNotesArray,noteGroupFormatVariant,part
 
 };
 
-
 export {saveCSV,calculate}
