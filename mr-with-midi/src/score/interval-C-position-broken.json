@@ -1,7 +1,9 @@
 {
-  "name":"interval-C-position-broken",
-  "nameFormatted": "intervalCPositionBroken",
-  "type":"Score Parameter Object",
+  "header": {
+    "name":"interval-C-position-broken",
+    "nameFormatted": "intervalCPositionBroken",
+    "type":"Score Parameter Object"
+  },
   "sessions":[
     {
       "sessionName": "practice-1",
