@@ -1,0 +1,218 @@
+{
+  "headers": [
+    {
+      "id": 0,
+      "name": "single-note-C-position",
+      "nameFormatted": "intervalCPositionBroken",
+      "type": "Score Parameter Object"
+    }
+  ],
+  "sessions" :[
+  {
+    "id": 0,
+    "sessionName": "practice-1",
+    "buttonToStartSession": "1",
+    "scoreDisplayEvents": [
+      {
+        "id": 0,
+        "eventName": "initial blank screen",
+        "eventDuration": 999,
+        "score": "",
+        "imageSizeFactor": "",
+        "staffWidth": ""
+      },
+      {
+        "id": 1,
+        "eventName": "practice 1 shows on screen",
+        "eventDuration": 1000,
+        "score": "y1/2C2",
+        "imageSizeFactor": "1.6",
+        "staffWidth": "100"
+      },
+      {
+        "id": 2,
+        "eventName": "blank screen",
+        "eventDuration": 2000,
+        "score": "",
+        "imageSizeFactor": "",
+        "staffWidth": ""
+      },
+      {
+        "id": 3,
+        "eventName": "practice 2 shows on screen",
+        "eventDuration": 1000,
+        "score": "y1/2E2",
+        "imageSizeFactor": "1.6",
+        "staffWidth": "100"
+      },
+      {
+        "id": 4,
+        "eventName": "blank screen",
+        "eventDuration": 2000,
+        "score": "",
+        "imageSizeFactor": "",
+        "staffWidth": ""
+      },
+      {
+        "id": 5,
+        "eventName": "practice 3 shows on screen",
+        "eventDuration": 1000,
+        "score": "y1/2C2",
+        "imageSizeFactor": "1.6",
+        "staffWidth": "100"
+      },
+      {
+        "id": 6,
+        "eventName": "blank screen",
+        "eventDuration": 2000,
+        "score": "",
+        "imageSizeFactor": "",
+        "staffWidth": ""
+      }
+    ]
+  },
+    {
+      "id": 1,
+      "sessionName": "Test",
+      "buttonToStartSession": "1",
+      "scoreDisplayEvents": [
+        {
+          "id": 0,
+          "eventName": "initial blank screen",
+          "eventDuration": 999,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 1,
+          "eventName": "1-test",
+          "eventDuration": 1000,
+          "score": "y1/2F2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 2,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 3,
+          "eventName": "2-test",
+          "eventDuration": 1000,
+          "score": "y1/2D2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 4,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 5,
+          "eventName": "3-test",
+          "eventDuration": 1000,
+          "score": "y1/2G2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 6,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 7,
+          "eventName": "4-test",
+          "eventDuration": 1000,
+          "score": "y1/2E2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 8,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 9,
+          "eventName": "5-test",
+          "eventDuration": 1000,
+          "score": "y1/2C2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 10,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 11,
+          "eventName": "6-test",
+          "eventDuration": 1000,
+          "score": "y1/2G2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 12,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 13,
+          "eventName": "7-test",
+          "eventDuration": 1000,
+          "score": "y1/2D2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 14,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        },
+        {
+          "id": 15,
+          "eventName": "8-test",
+          "eventDuration": 1000,
+          "score": "y1/2F2",
+          "imageSizeFactor": "1.6",
+          "staffWidth": "100"
+        },
+        {
+          "id": 16,
+          "eventName": "blank screen",
+          "eventDuration": 2000,
+          "score": "",
+          "imageSizeFactor": "",
+          "staffWidth": ""
+        }
+      ]
+    }
+  ]
+}

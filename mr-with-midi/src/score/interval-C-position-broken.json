@@ -1,15 +1,20 @@
 {
-  "header": {
-    "name":"interval-C-position-broken",
-    "nameFormatted": "intervalCPositionBroken",
-    "type":"Score Parameter Object"
-  },
+  "headers": [
+    {
+      "id": 0,
+      "name":"interval-C-position-broken",
+      "nameFormatted": "intervalCPositionBroken",
+      "type":"Score Parameter Object"
+    }
+  ],
   "sessions":[
     {
+      "id": 0,
       "sessionName": "practice-1",
       "buttonToStartSession": "1",
       "scoreDisplayEvents": [
         {
+          "id": 0,
           "eventName": "blank screen",
           "eventDuration": "1000",
           "score": "",
@@ -17,6 +22,7 @@
           "staffWidth": ""
         },
         {
+          "id": 1,
           "eventName": "practice 1 shows on screen",
           "eventDuration": "300",
           "score": " G G G|",
@@ -26,10 +32,12 @@
       ]
     },
     {
+      "id": 1,
       "sessionName": "practice-2, or test, or whatever name",
       "buttonToStartSession": "2",
       "scoreDisplayEvents": [
         {
+          "id": 0,
           "eventName": "blank screen",
           "eventDuration": "1000",
           "score": "",
@@ -37,6 +45,7 @@
           "staffWidth": ""
         },
         {
+          "id": 1,
           "eventName": "test 1 shows on screen",
           "eventDuration": "300",
           "score": " G G G|",
@@ -44,6 +53,7 @@
           "staffWidth": "60"
         },
         {
+          "id": 2,
           "eventName": "blank screen",
           "eventDuration": "1000",
           "score": "",
@@ -51,6 +61,7 @@
           "staffWidth": ""
         },
         {
+          "id": 3,
           "eventName": "test 2",
           "eventDuration": "300",
           "score": "y1/2d2",
@@ -58,6 +69,7 @@
           "staffWidth": "60"
         },
         {
+          "id": 4,
           "eventName": "blank screen",
           "eventDuration": "1000",
           "score": "",
@@ -65,6 +77,7 @@
           "staffWidth": ""
         },
         {
+          "id": 5,
           "eventName": "test 3",
           "eventDuration": "300",
           "score": "y1/2E2",
@@ -72,6 +85,7 @@
           "staffWidth": "60"
         },
         {
+          "id": 6,
           "eventName": "blank screen",
           "eventDuration": "1000",
           "score": "",
@@ -79,6 +93,7 @@
           "staffWidth": ""
         },
         {
+          "id": 7,
           "eventName": "test 4",
           "eventDuration": "300",
           "score": " G G G|",
@@ -89,3 +104,4 @@
     }
   ]
 }
+
