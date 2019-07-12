@@ -25,7 +25,7 @@
     "electron": "electron src",
     "dev": "yarn react-scripts start",
     "build": "react-scripts build",
-    "start": "concurrently \"cross-env BROWSER=none yarn react-scripts start\" \"wait-on http://localhost:3000 && electron .\" \"json-server dbREST.js --routes routes.json --port 27017 \" \"json-graphql-server dbGraphQL.js --p 27018\" ",
+    "start": "concurrently \"cross-env BROWSER=none yarn react-scripts start\" \"wait-on http://localhost:3000 && electron .\" \"json-server dbREST.js --port 27017 \" \"json-graphql-server dbGraphQL.js --p 27018\" ",
     "pack": "electron-builder --dir",
     "dist": "electron-builder"
   },
