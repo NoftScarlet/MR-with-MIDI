@@ -11,6 +11,11 @@ import CreateScoreWithBlanksLC from "../logic/CreateScoreWithBlanksLC";
 import EventRecorder from "../logic/EventRecorder";
 //https://stackoverflow.com/questions/36683770/how-to-get-the-value-of-an-input-field-using-reactjs
 
+// header should only contain header
+// Body should have the score changing
+// Body should have the click event handler, which invokes the api calling function
+
+
 export default class Header extends React.Component {
 
     constructor(props) {
